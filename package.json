@@ -1,0 +1,29 @@
+{
+  "name": "dw2-practica2",
+  "version": "1.0.0",
+  "description": "Repositorio para implementar el ejemplo de clase transformando todo el schema de datos a mongoose ODM y transformar la logica de services para la implementación de dicha libreria.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdalizSan/DW2-PRACTICA2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdalizSan/DW2-PRACTICA2/issues"
+  },
+  "homepage": "https://github.com/AdalizSan/DW2-PRACTICA2#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "i18n": "^0.15.1",
+    "joi": "^18.0.1",
+    "mongoose": "^8.18.1"
+  }
+}

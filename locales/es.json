@@ -1,0 +1,7 @@
+{
+  "no_computadoras_found": "No se encontraron computadoras",
+  "computadoras_obtained_success": "Computadoras obtenidas exitosamente",
+  "computadora_created_success": "Computadora creada exitosamente",
+  "computadora_duplicate": "Computadora con este nombreAlumno ya existe",
+  "internal_server_error": "Error interno del servidor"
+}
